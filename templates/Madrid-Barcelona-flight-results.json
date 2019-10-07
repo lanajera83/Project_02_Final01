@@ -1,0 +1,632 @@
+[
+    {
+        "stops": "Nonstop",
+        "ticket_price": "205.35",
+        "departure": ", Madrid",
+        "arrival": ", Barcelona",
+        "flight_duration": "0 days 1 hours 20 minutes",
+        "airline": "Vueling Airlines",
+        "plane": "",
+        "timings": [
+            {
+                "departure_airport": "Madrid, Spain (MAD-Adolfo Suarez Madrid-Barajas)",
+                "departure_time": "11:00am",
+                "arrival_airport": "Barcelona, Spain (BCN-Barcelona Intl.)",
+                "arrival_time": "12:20pm"
+            }
+        ],
+        "plane_code": ""
+    },
+    {
+        "stops": "Nonstop",
+        "ticket_price": "205.35",
+        "departure": ", Madrid",
+        "arrival": ", Barcelona",
+        "flight_duration": "0 days 1 hours 20 minutes",
+        "airline": "Vueling Airlines",
+        "plane": "",
+        "timings": [
+            {
+                "departure_airport": "Madrid, Spain (MAD-Adolfo Suarez Madrid-Barajas)",
+                "departure_time": "12:00pm",
+                "arrival_airport": "Barcelona, Spain (BCN-Barcelona Intl.)",
+                "arrival_time": "1:20pm"
+            }
+        ],
+        "plane_code": ""
+    },
+    {
+        "stops": "Nonstop",
+        "ticket_price": "205.35",
+        "departure": ", Madrid",
+        "arrival": ", Barcelona",
+        "flight_duration": "0 days 1 hours 20 minutes",
+        "airline": "Vueling Airlines",
+        "plane": "",
+        "timings": [
+            {
+                "departure_airport": "Madrid, Spain (MAD-Adolfo Suarez Madrid-Barajas)",
+                "departure_time": "7:00am",
+                "arrival_airport": "Barcelona, Spain (BCN-Barcelona Intl.)",
+                "arrival_time": "8:20am"
+            }
+        ],
+        "plane_code": ""
+    },
+    {
+        "stops": "Nonstop",
+        "ticket_price": "205.35",
+        "departure": ", Madrid",
+        "arrival": ", Barcelona",
+        "flight_duration": "0 days 1 hours 20 minutes",
+        "airline": "Vueling Airlines",
+        "plane": "",
+        "timings": [
+            {
+                "departure_airport": "Madrid, Spain (MAD-Adolfo Suarez Madrid-Barajas)",
+                "departure_time": "9:45am",
+                "arrival_airport": "Barcelona, Spain (BCN-Barcelona Intl.)",
+                "arrival_time": "11:05am"
+            }
+        ],
+        "plane_code": ""
+    },
+    {
+        "stops": "Nonstop",
+        "ticket_price": "217.59",
+        "departure": ", Madrid",
+        "arrival": ", Barcelona",
+        "flight_duration": "0 days 1 hours 25 minutes",
+        "airline": "Air Europa",
+        "plane": "Airbus A330-200",
+        "timings": [
+            {
+                "departure_airport": "Madrid, Spain (MAD-Adolfo Suarez Madrid-Barajas)",
+                "departure_time": "7:30am",
+                "arrival_airport": "Barcelona, Spain (BCN-Barcelona Intl.)",
+                "arrival_time": "8:55am"
+            }
+        ],
+        "plane_code": "332"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket_price": "229.56",
+        "departure": ", Madrid",
+        "arrival": ", Barcelona",
+        "flight_duration": "0 days 1 hours 20 minutes",
+        "airline": "Vueling Airlines",
+        "plane": "",
+        "timings": [
+            {
+                "departure_airport": "Madrid, Spain (MAD-Adolfo Suarez Madrid-Barajas)",
+                "departure_time": "7:45am",
+                "arrival_airport": "Barcelona, Spain (BCN-Barcelona Intl.)",
+                "arrival_time": "9:05am"
+            }
+        ],
+        "plane_code": ""
+    },
+    {
+        "stops": "Nonstop",
+        "ticket_price": "241.59",
+        "departure": ", Madrid",
+        "arrival": ", Barcelona",
+        "flight_duration": "0 days 1 hours 15 minutes",
+        "airline": "Air Europa",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "Madrid, Spain (MAD-Adolfo Suarez Madrid-Barajas)",
+                "departure_time": "8:30pm",
+                "arrival_airport": "Barcelona, Spain (BCN-Barcelona Intl.)",
+                "arrival_time": "9:45pm"
+            }
+        ],
+        "plane_code": "73H"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket_price": "241.59",
+        "departure": ", Madrid",
+        "arrival": ", Barcelona",
+        "flight_duration": "0 days 1 hours 15 minutes",
+        "airline": "Iberia",
+        "plane": "Airbus A321",
+        "timings": [
+            {
+                "departure_airport": "Madrid, Spain (MAD-Adolfo Suarez Madrid-Barajas)",
+                "departure_time": "1:15pm",
+                "arrival_airport": "Barcelona, Spain (BCN-Barcelona Intl.)",
+                "arrival_time": "2:30pm"
+            }
+        ],
+        "plane_code": "321"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket_price": "274.53",
+        "departure": ", Madrid",
+        "arrival": ", Barcelona",
+        "flight_duration": "0 days 1 hours 20 minutes",
+        "airline": "Vueling Airlines",
+        "plane": "",
+        "timings": [
+            {
+                "departure_airport": "Madrid, Spain (MAD-Adolfo Suarez Madrid-Barajas)",
+                "departure_time": "9:00am",
+                "arrival_airport": "Barcelona, Spain (BCN-Barcelona Intl.)",
+                "arrival_time": "10:20am"
+            }
+        ],
+        "plane_code": ""
+    },
+    {
+        "stops": "Nonstop",
+        "ticket_price": "274.53",
+        "departure": ", Madrid",
+        "arrival": ", Barcelona",
+        "flight_duration": "0 days 1 hours 20 minutes",
+        "airline": "Vueling Airlines",
+        "plane": "",
+        "timings": [
+            {
+                "departure_airport": "Madrid, Spain (MAD-Adolfo Suarez Madrid-Barajas)",
+                "departure_time": "3:05pm",
+                "arrival_airport": "Barcelona, Spain (BCN-Barcelona Intl.)",
+                "arrival_time": "4:25pm"
+            }
+        ],
+        "plane_code": ""
+    },
+    {
+        "stops": "Nonstop",
+        "ticket_price": "300.59",
+        "departure": ", Madrid",
+        "arrival": ", Barcelona",
+        "flight_duration": "0 days 1 hours 20 minutes",
+        "airline": "Iberia",
+        "plane": "AIRBUS INDUSTRIE A320 SHARKLETS",
+        "timings": [
+            {
+                "departure_airport": "Madrid, Spain (MAD-Adolfo Suarez Madrid-Barajas)",
+                "departure_time": "9:45pm",
+                "arrival_airport": "Barcelona, Spain (BCN-Barcelona Intl.)",
+                "arrival_time": "11:05pm"
+            }
+        ],
+        "plane_code": "32A"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket_price": "300.59",
+        "departure": ", Madrid",
+        "arrival": ", Barcelona",
+        "flight_duration": "0 days 1 hours 15 minutes",
+        "airline": "Iberia",
+        "plane": "AIRBUS INDUSTRIE A320 SHARKLETS",
+        "timings": [
+            {
+                "departure_airport": "Madrid, Spain (MAD-Adolfo Suarez Madrid-Barajas)",
+                "departure_time": "6:30am",
+                "arrival_airport": "Barcelona, Spain (BCN-Barcelona Intl.)",
+                "arrival_time": "7:45am"
+            }
+        ],
+        "plane_code": "32A"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket_price": "300.59",
+        "departure": ", Madrid",
+        "arrival": ", Barcelona",
+        "flight_duration": "0 days 1 hours 15 minutes",
+        "airline": "Iberia",
+        "plane": "AIRBUS INDUSTRIE A320 SHARKLETS",
+        "timings": [
+            {
+                "departure_airport": "Madrid, Spain (MAD-Adolfo Suarez Madrid-Barajas)",
+                "departure_time": "2:30pm",
+                "arrival_airport": "Barcelona, Spain (BCN-Barcelona Intl.)",
+                "arrival_time": "3:45pm"
+            }
+        ],
+        "plane_code": "32A"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket_price": "300.59",
+        "departure": ", Madrid",
+        "arrival": ", Barcelona",
+        "flight_duration": "0 days 1 hours 20 minutes",
+        "airline": "Iberia",
+        "plane": "AIRBUS INDUSTRIE A320 SHARKLETS",
+        "timings": [
+            {
+                "departure_airport": "Madrid, Spain (MAD-Adolfo Suarez Madrid-Barajas)",
+                "departure_time": "11:30am",
+                "arrival_airport": "Barcelona, Spain (BCN-Barcelona Intl.)",
+                "arrival_time": "12:50pm"
+            }
+        ],
+        "plane_code": "32A"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket_price": "313.59",
+        "departure": ", Madrid",
+        "arrival": ", Barcelona",
+        "flight_duration": "0 days 1 hours 20 minutes",
+        "airline": "Iberia",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "Madrid, Spain (MAD-Adolfo Suarez Madrid-Barajas)",
+                "departure_time": "9:45am",
+                "arrival_airport": "Barcelona, Spain (BCN-Barcelona Intl.)",
+                "arrival_time": "11:05am"
+            }
+        ],
+        "plane_code": "320"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket_price": "313.59",
+        "departure": ", Madrid",
+        "arrival": ", Barcelona",
+        "flight_duration": "0 days 1 hours 25 minutes",
+        "airline": "Air Europa",
+        "plane": "Airbus A330-200",
+        "timings": [
+            {
+                "departure_airport": "Madrid, Spain (MAD-Adolfo Suarez Madrid-Barajas)",
+                "departure_time": "3:10pm",
+                "arrival_airport": "Barcelona, Spain (BCN-Barcelona Intl.)",
+                "arrival_time": "4:35pm"
+            }
+        ],
+        "plane_code": "332"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket_price": "313.59",
+        "departure": ", Madrid",
+        "arrival": ", Barcelona",
+        "flight_duration": "0 days 1 hours 20 minutes",
+        "airline": "Iberia",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "Madrid, Spain (MAD-Adolfo Suarez Madrid-Barajas)",
+                "departure_time": "7:45am",
+                "arrival_airport": "Barcelona, Spain (BCN-Barcelona Intl.)",
+                "arrival_time": "9:05am"
+            }
+        ],
+        "plane_code": "320"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket_price": "313.59",
+        "departure": ", Madrid",
+        "arrival": ", Barcelona",
+        "flight_duration": "0 days 1 hours 20 minutes",
+        "airline": "Iberia",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "Madrid, Spain (MAD-Adolfo Suarez Madrid-Barajas)",
+                "departure_time": "7:00am",
+                "arrival_airport": "Barcelona, Spain (BCN-Barcelona Intl.)",
+                "arrival_time": "8:20am"
+            }
+        ],
+        "plane_code": "320"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket_price": "313.59",
+        "departure": ", Madrid",
+        "arrival": ", Barcelona",
+        "flight_duration": "0 days 1 hours 20 minutes",
+        "airline": "Iberia",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "Madrid, Spain (MAD-Adolfo Suarez Madrid-Barajas)",
+                "departure_time": "12:00pm",
+                "arrival_airport": "Barcelona, Spain (BCN-Barcelona Intl.)",
+                "arrival_time": "1:20pm"
+            }
+        ],
+        "plane_code": "320"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket_price": "313.59",
+        "departure": ", Madrid",
+        "arrival": ", Barcelona",
+        "flight_duration": "0 days 1 hours 20 minutes",
+        "airline": "Iberia",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "Madrid, Spain (MAD-Adolfo Suarez Madrid-Barajas)",
+                "departure_time": "11:00am",
+                "arrival_airport": "Barcelona, Spain (BCN-Barcelona Intl.)",
+                "arrival_time": "12:20pm"
+            }
+        ],
+        "plane_code": "320"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket_price": "340.59",
+        "departure": ", Madrid",
+        "arrival": ", Barcelona",
+        "flight_duration": "0 days 1 hours 15 minutes",
+        "airline": "Iberia",
+        "plane": "AIRBUS INDUSTRIE A320 SHARKLETS",
+        "timings": [
+            {
+                "departure_airport": "Madrid, Spain (MAD-Adolfo Suarez Madrid-Barajas)",
+                "departure_time": "9:00pm",
+                "arrival_airport": "Barcelona, Spain (BCN-Barcelona Intl.)",
+                "arrival_time": "10:15pm"
+            }
+        ],
+        "plane_code": "32A"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket_price": "340.59",
+        "departure": ", Madrid",
+        "arrival": ", Barcelona",
+        "flight_duration": "0 days 1 hours 20 minutes",
+        "airline": "Iberia",
+        "plane": "Airbus A321",
+        "timings": [
+            {
+                "departure_airport": "Madrid, Spain (MAD-Adolfo Suarez Madrid-Barajas)",
+                "departure_time": "3:45pm",
+                "arrival_airport": "Barcelona, Spain (BCN-Barcelona Intl.)",
+                "arrival_time": "5:05pm"
+            }
+        ],
+        "plane_code": "321"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket_price": "355.59",
+        "departure": ", Madrid",
+        "arrival": ", Barcelona",
+        "flight_duration": "0 days 1 hours 20 minutes",
+        "airline": "Iberia",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "Madrid, Spain (MAD-Adolfo Suarez Madrid-Barajas)",
+                "departure_time": "3:05pm",
+                "arrival_airport": "Barcelona, Spain (BCN-Barcelona Intl.)",
+                "arrival_time": "4:25pm"
+            }
+        ],
+        "plane_code": "320"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket_price": "355.59",
+        "departure": ", Madrid",
+        "arrival": ", Barcelona",
+        "flight_duration": "0 days 1 hours 20 minutes",
+        "airline": "Iberia",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "Madrid, Spain (MAD-Adolfo Suarez Madrid-Barajas)",
+                "departure_time": "9:00am",
+                "arrival_airport": "Barcelona, Spain (BCN-Barcelona Intl.)",
+                "arrival_time": "10:20am"
+            }
+        ],
+        "plane_code": "320"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket_price": "439.59",
+        "departure": ", Madrid",
+        "arrival": ", Barcelona",
+        "flight_duration": "0 days 1 hours 15 minutes",
+        "airline": "Iberia",
+        "plane": "AIRBUS INDUSTRIE A320 SHARKLETS",
+        "timings": [
+            {
+                "departure_airport": "Madrid, Spain (MAD-Adolfo Suarez Madrid-Barajas)",
+                "departure_time": "8:00am",
+                "arrival_airport": "Barcelona, Spain (BCN-Barcelona Intl.)",
+                "arrival_time": "9:15am"
+            }
+        ],
+        "plane_code": "32A"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket_price": "439.59",
+        "departure": ", Madrid",
+        "arrival": ", Barcelona",
+        "flight_duration": "0 days 1 hours 20 minutes",
+        "airline": "Iberia",
+        "plane": "Airbus A321",
+        "timings": [
+            {
+                "departure_airport": "Madrid, Spain (MAD-Adolfo Suarez Madrid-Barajas)",
+                "departure_time": "4:30pm",
+                "arrival_airport": "Barcelona, Spain (BCN-Barcelona Intl.)",
+                "arrival_time": "5:50pm"
+            }
+        ],
+        "plane_code": "321"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket_price": "509.70",
+        "departure": ", Madrid",
+        "arrival": ", Barcelona",
+        "flight_duration": "0 days 1 hours 20 minutes",
+        "airline": "Vueling Airlines",
+        "plane": "",
+        "timings": [
+            {
+                "departure_airport": "Madrid, Spain (MAD-Adolfo Suarez Madrid-Barajas)",
+                "departure_time": "6:15pm",
+                "arrival_airport": "Barcelona, Spain (BCN-Barcelona Intl.)",
+                "arrival_time": "7:35pm"
+            }
+        ],
+        "plane_code": ""
+    },
+    {
+        "stops": "Nonstop",
+        "ticket_price": "509.70",
+        "departure": ", Madrid",
+        "arrival": ", Barcelona",
+        "flight_duration": "0 days 1 hours 20 minutes",
+        "airline": "Vueling Airlines",
+        "plane": "",
+        "timings": [
+            {
+                "departure_airport": "Madrid, Spain (MAD-Adolfo Suarez Madrid-Barajas)",
+                "departure_time": "5:00pm",
+                "arrival_airport": "Barcelona, Spain (BCN-Barcelona Intl.)",
+                "arrival_time": "6:20pm"
+            }
+        ],
+        "plane_code": ""
+    },
+    {
+        "stops": "Nonstop",
+        "ticket_price": "516.59",
+        "departure": ", Madrid",
+        "arrival": ", Barcelona",
+        "flight_duration": "0 days 1 hours 20 minutes",
+        "airline": "Iberia",
+        "plane": "AIRBUS INDUSTRIE A320 SHARKLETS",
+        "timings": [
+            {
+                "departure_airport": "Madrid, Spain (MAD-Adolfo Suarez Madrid-Barajas)",
+                "departure_time": "8:30am",
+                "arrival_airport": "Barcelona, Spain (BCN-Barcelona Intl.)",
+                "arrival_time": "9:50am"
+            }
+        ],
+        "plane_code": "32A"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket_price": "516.59",
+        "departure": ", Madrid",
+        "arrival": ", Barcelona",
+        "flight_duration": "0 days 1 hours 15 minutes",
+        "airline": "Iberia",
+        "plane": "Airbus A321",
+        "timings": [
+            {
+                "departure_airport": "Madrid, Spain (MAD-Adolfo Suarez Madrid-Barajas)",
+                "departure_time": "7:30am",
+                "arrival_airport": "Barcelona, Spain (BCN-Barcelona Intl.)",
+                "arrival_time": "8:45am"
+            }
+        ],
+        "plane_code": "321"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket_price": "589.59",
+        "departure": ", Madrid",
+        "arrival": ", Barcelona",
+        "flight_duration": "0 days 1 hours 20 minutes",
+        "airline": "Iberia",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "Madrid, Spain (MAD-Adolfo Suarez Madrid-Barajas)",
+                "departure_time": "6:15pm",
+                "arrival_airport": "Barcelona, Spain (BCN-Barcelona Intl.)",
+                "arrival_time": "7:35pm"
+            }
+        ],
+        "plane_code": "320"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket_price": "589.59",
+        "departure": ", Madrid",
+        "arrival": ", Barcelona",
+        "flight_duration": "0 days 1 hours 20 minutes",
+        "airline": "Iberia",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "Madrid, Spain (MAD-Adolfo Suarez Madrid-Barajas)",
+                "departure_time": "5:00pm",
+                "arrival_airport": "Barcelona, Spain (BCN-Barcelona Intl.)",
+                "arrival_time": "6:20pm"
+            }
+        ],
+        "plane_code": "320"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket_price": "698.59",
+        "departure": ", Madrid",
+        "arrival": ", Barcelona",
+        "flight_duration": "0 days 1 hours 15 minutes",
+        "airline": "Iberia",
+        "plane": "AIRBUS INDUSTRIE A320 SHARKLETS",
+        "timings": [
+            {
+                "departure_airport": "Madrid, Spain (MAD-Adolfo Suarez Madrid-Barajas)",
+                "departure_time": "9:30am",
+                "arrival_airport": "Barcelona, Spain (BCN-Barcelona Intl.)",
+                "arrival_time": "10:45am"
+            }
+        ],
+        "plane_code": "32A"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket_price": "698.59",
+        "departure": ", Madrid",
+        "arrival": ", Barcelona",
+        "flight_duration": "0 days 1 hours 15 minutes",
+        "airline": "Iberia",
+        "plane": "Airbus A319",
+        "timings": [
+            {
+                "departure_airport": "Madrid, Spain (MAD-Adolfo Suarez Madrid-Barajas)",
+                "departure_time": "11:00am",
+                "arrival_airport": "Barcelona, Spain (BCN-Barcelona Intl.)",
+                "arrival_time": "12:15pm"
+            }
+        ],
+        "plane_code": "319"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket_price": "698.59",
+        "departure": ", Madrid",
+        "arrival": ", Barcelona",
+        "flight_duration": "0 days 1 hours 15 minutes",
+        "airline": "Iberia",
+        "plane": "Airbus A321",
+        "timings": [
+            {
+                "departure_airport": "Madrid, Spain (MAD-Adolfo Suarez Madrid-Barajas)",
+                "departure_time": "8:00am",
+                "arrival_airport": "Barcelona, Spain (BCN-Barcelona Intl.)",
+                "arrival_time": "9:15am"
+            }
+        ],
+        "plane_code": "321"
+    }
+]

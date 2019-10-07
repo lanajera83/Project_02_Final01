@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Hacking my trip</title>
+  <script src="https://d3js.org/d3.v4.js"></script>
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <script src="https://unpkg.com/gijgo@1.9.13/js/gijgo.min.js" type="text/javascript"></script>
+    <link href="https://unpkg.com/gijgo@1.9.13/css/gijgo.min.css" rel="stylesheet" type="text/css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.9.1/d3-tip.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+
+<!-- // Official Head -->
+</head>
+
+<body>
+  <div class="container-fluid">
+    <div class="jumbotron text-center">
+      <h1>Check this data is awsome!</h1>
+      <p>Use the interactive charts below to explore the results</p>
+    </div>
+  </div>
+ 
+  <div class="container">
+      
+      <div class="col-md-4">
+      <div class="panel-group">
+        <div class="panel panel-default">
+          <div class="panel-heading text-center">FROM</div>
+          <div class="panel-body text-center">{{ p_from }}</div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col-md-4">
+        <div class="panel panel-default">
+          <div class="panel-heading text-center">TO</div>
+          <div class="panel-body text-center">{{ p_to }}</div>
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="panel panel-default">
+          <div class="panel-heading text-center">DATE</div>
+          <div class="panel-body text-center">{{ p_date }}</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-6">
+    <div id="line"></div>
+    <script>
+      d3.json('/line').then(function(data) {
+        var layout = { margin: { t: 0 } }
+        var LINE = document.getElementById('line');
+        Plotly.plot(LINE, data)
+      })
+    </script>
+    </div>
+
+    <div class="col-md-6">
+    <div id="line"></div>
+    <br>
+    <br>
+    <br>
+    <script>
+        window.onload = function () {
+        
+        var chart = new CanvasJS.Chart("chartContainer", {
+          animationEnabled: true,
+          theme: "light2", // "light1", "light2", "dark1", "dark2"
+          title:{
+            text: "Top Prices"
+          },
+          axisY: {
+            title: ""
+          },
+          data: [{        
+            type: "column",  
+            showInLegend: true, 
+            legendMarkerColor: "grey",
+            dataPoints: [      
+              { y: 1885, label: "Aerolitoral DBA Aeromexico Connect" },
+              { y: 1896,  label: "Air France" },
+              { y: 1816,  label: "Alitalia" },
+              { y: 1863,  label: "Delta" },
+              { y: 1877,  label: "KLM" },
+              { y: 1885, label: "Others" },
+            ]
+          }]
+        });
+        chart.render();
+        
+        }
+        </script>
+        <div id="chartContainer" style="height: 300px; width: 100%;"></div>
+        <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+    </div>
+
+    <div class="col-md-12">
+      <div id="chart_div" style="width: 100%; height: 500px;"></div>
+      <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+      <script type="text/javascript">
+        google.charts.load('current', {'packages':['corechart']});
+        google.charts.setOnLoadCallback(drawChart);
+  
+        function drawChart() {
+          var data = google.visualization.arrayToDataTable([
+            ['Date', 'Prices'],
+            ['01',  1856.91],
+            ['02',  1862.46],
+            ['03',  1862.46],
+            ['04',  1862.46],
+            ['05',  1680.59],
+            ['06',  1862.46],
+            ['07',  1786.04],
+            ['08',  1856.91],
+            ['09',  1862.46],
+            ['10',  1862.46],
+            ['11',  1862.46],
+            ['12',  1680.59],
+            ['13',  1862.46],
+            ['14',  1778.63],
+            ['15',  1856.91],
+            ['16',  1862.46],
+            ['17',  1862.46],
+            ['18',  1862.46],
+            ['19',  1680.59],
+            ['20',  1862.46],
+            ['21',  1778.63],
+            ['22',  1856.91],
+            ['23',  1862.46],
+            ['24',  1862.46],
+            ['25',  1862.46],
+            ['26',  1862.46],
+            ['27',  1862.46],
+            ['28',  1778.63],
+            ['29',  1856.91],
+            ['30',  1862.46],
+            ['31',  1862.46]
+          ]);
+  
+          var options = {
+            title: 'Prices Performance',
+            hAxis: {title: 'Current Month',  titleTextStyle: {color: '#333'}},
+            vAxis: {minValue: 0}
+          };
+  
+          var chart = new google.visualization.AreaChart(document.getElementById('chart_div'));
+          chart.draw(data, options);
+        }
+      </script>
+    </div>
+
+<!-- <script src="https://cdn.plot.ly/plotly-1.31.2.min.js"></script> -->
+
+<script src="{{ url_for('static', filename='js/app.js') }}"></script>
+
+
+</body>
+
+</html>
